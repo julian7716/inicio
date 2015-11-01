@@ -1,0 +1,29 @@
+
+/*-------------------------Pie----------------------------------*/
+
+#piePagina{
+ position: relative;
+ width : 1250px ;
+ height: 200px ;
+ 
+ }
+ 
+                #pie{
+
+ font-family:Arial;
+ font-size:11px;
+ margin: auto;
+ text-align: center; 
+ float: center;
+ 
+ }
+
+ 
+ #sabio{
+     
+    width: 50px;
+    height: 85px;
+    display: block;
+    margin: auto;
+    
+} 
